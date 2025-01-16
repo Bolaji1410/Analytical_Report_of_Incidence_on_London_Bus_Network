@@ -1,3 +1,5 @@
+![Analytical report of incidence in London](https://github.com/user-attachments/assets/4037927f-fbf7-438f-819f-d0a65d815e3c)
+
 # OBSERVATION
 
 - Total Reported Incidents: 21,464
